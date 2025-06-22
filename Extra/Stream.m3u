@@ -936,116 +936,24 @@ https://wanasah-prod-dub-ak.akamaized.net/out/v1/c84ef3128e564b74a6a796e8b6287de
 https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
 #EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Tarab.png" ,Tarab
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_4.m3u8
+#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Muhammad-Abdo" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Muhammad-Abdo.png" ,Muhammad Abdo
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mohammed-abdou/ae9bed6024bb80026b2ab5a4de4754ef/index.m3u8
+#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Ramadan Maana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Majid Almohandis.png" ,Majid Almohandis
+https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
+#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Abdul-Majeed-Abdullah" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Abdul-Majeed-Abdullah.png" ,Abdul Majeed Abdullah
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-abdulmajeed-abdullah/def450c25e1f2dd4379ca782e07c96a8/index.m3u8
+#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Rashed-Al-Majed" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Rashed-Al-Majed.png" ,Rashed Al Majed
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-rashed-almajed/5acf573bde2dd6f133cbd6a338b1f312/index.m3u8
 #EXTINF:-1 group-title="● Shahid" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Rabeh-Saqer.png" ,Rabeh-Saqer
 https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Al Hadath" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Hadath.png" ,Al Hadath
-https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-
-#EXTINF:-1 group-title="● Shahid" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Ramadan Maana.png" ,Ramadan-Ma’na-Series
-https://shls-live-enc.edgenextcdn.net/out/v1/9747e20a05794a14b0cfccd7c621dd00/index_1.m3u8
 #EXTINF:-1 group-title="● Shahid" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Ramadan-Ma’na-GCC.png" ,Ramadan-Ma’na-GCC
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index_1.m3u8
-#EXTINF:-1 group-title="● Shahid" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Freej.png" ,Freej
-https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index_12.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Al-Arabiya-Business" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al-Arabiya-Business.png" ,AlArabiya B
-https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index_3.m3u8
-#EXTINF:-1 group-title="● Shahid" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Alekhbariya.png" ,Alekhbariya
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="● Shahid" ,Asharq-Documentary
-https://asharq-documentary-enc.edgenextcdn.net/out/v1/871a6254268e4609b6a0985a1881becc/index.m3u8
-#EXTINF:-1 group-title="● Shahid" ,Asharq-Discovery
-https://asharq-discovery-enc.edgenextcdn.net/out/v1/afc5e5b828df4f1a88b433fc9f8ff2f1/index.m3u8
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Nature-Time" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Nature-Time.png" ,Nature Time
-https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
 #EXTINF:-1 group-title="● Shahid" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Bedaya.png" ,Bedaya
 https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/index.m3u8
-
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="BBC’S-Top-Gear" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Arabs-Got-Talent.png" ,Arabs-Got-Talent
-https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_2.m3u8
-#EXTINF:-1 group-title="● Shahid" ,SSC
-https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Gulf Comedy.png" ,Gulf Comedy
-https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="● Shahid" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Thikrayat.png" ,Thikrayat
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index.m3u8
-#EXTINF:-1 group-title="● Shahid" ,SBC
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/d369be2a1373b221dafc3f3eb025f2a9/index.m3u8
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="MBC 3" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/MBC 3.png" ,MBC 3
-https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Spacetoon" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Spacetoon.png" ,Spacetoon
-https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 group-title="● Shahid" ,Al-Quraan-al-Kareem
-https://quran-tv-prod-dub-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.m3u8
-#EXTINF:-1 group-title="● Shahid" ,Al-Sunnah-al-Nabawiyah
-https://sunna-tv-prod-dub-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.m3u8
-
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Panorama FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Panorama FM.png" ,Panorama FM
-https://panoramafm-prod-dub-ak.akamaized.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-
-
-#EXTINF:-1 group-title="● Shahid" ,BIG-TIME
-https://thekhayal-prod-dub-enc.edgenextcdn.net/out/v1/c82a0a3ff78c44938d6536104e5f0a7e/index.m3u8
-#EXTINF:-1 group-title="● Shahid" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Big-Time-Plus.png" ,Big-Time-Plus
-https://big-time-plus-enc.edgenextcdn.net/out/v1/c885383fb76943c98fa223e7fd08b125/index.m3u8
-#EXTINF:-1 group-title="● Shahid" ,Alkhuzama-Radio
-https://alkhuzama-radio-enc.edgenextcdn.net/out/v1/b0c891ef58f34537ba2efd035da76da4/index.m3u8
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Ramadan Maana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Majid Almohandis.png" ,Majid Almohandis
-https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Abdul-Majeed-Abdullah" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Abdul-Majeed-Abdullah.png" ,Abdul Majeed Abdullah
-https://abdulmajeed-abdullah-ak.akamaized.net/out/v1/b5759c5db43d4d10b382a4bc2b337ab5/index_21.m3u8
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Rashed-Al-Majed" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Rashed-Al-Majed.png" ,Rashed Al Majed
-https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index_27.m3u8
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Muhammad-Abdo" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Muhammad-Abdo.png" ,Muhammad Abdo
-https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_27.m3u8
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Al-Liqaa-Min-Al-Sifr-Channel" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al-Liqaa-Min-Al-Sifr-Channel.png" ,Al Liqaa Min Al Sifr
-https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index_9.m3u8
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Desi-play" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Desi-play.png" ,Desi-play
-https://shls-live-ak.akamaized.net/out/v1/05f3eb584b674d8099779eabb6521b58/index_2.m3u8
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Fashion-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Fashion-TV.png" ,Fashion-TV
-https://mbc1-enc.edgenextcdn.net/out/v1/61474465407042c896d3d27685175891/index_3.m3u8
 #EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Al-Meerath" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al-Meerath.png" ,Al-Meerath
 https://shls-live-ak.akamaized.net/out/v1/0fcbe9a01dc6474cbec18c1027326c50/index_2.m3u8
-#EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="WrestleMania" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/WrestleMania.png" ,WrestleMania
-https://shls-live-ak.akamaized.net/out/v1/cf05f1dbbeae4878bbc4a5919cef3391/index_2.m3u8
 #EXTINF:-1 group-title="● Shahid" tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Arabiya Programs.png" ,Al Arabiya Programs
 https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
 
