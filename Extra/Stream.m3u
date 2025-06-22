@@ -115,19 +115,129 @@ https://s2.radio.co/s770fa24b6/listen
 #EXTINF:-1 group-title="#Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Dafrah TV.png" ,Al Dafrah TV
 https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
 
+#EXTINF:-1 group-title="#ExtraPlus" tvg-id="Alarabiya.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Al%20Arabiya.png",News: Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-id="AlHadath.sa" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Al%20Hadath.png",News: Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-id="(no tvg-id)" tvg-name="Al-Arabiya-Business" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al-Arabiya-Business.png" ,Business: AlArabiya Business
+https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index_3.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-id="(no tvg-id)" tvg-name="Al-Arabiya-Business" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al-Arabiya-Business.png" ,Programs: AlArabiya Programs
+https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Alarabiya FM.png" ,Radio: Alarabiya FM
+https://fm.alarabiya.net/fm/myStream/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Jazeera Mubasher.png" ,News: Al Jazeera Mubasher
+https://streamer1.qna.org.qa/148133841_live/148133841_296.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Jazeera Arabic.png" ,News: Al Jazeera
+https://streamer1.qna.org.qa/148133697_live/148133697_63.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Jazeera English.png" ,News: Al Jazeera English
+https://live-hls-web-aje.getaj.net/alternative/AJE/01.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Jazeera Documentary.png" ,Documentary: Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: AL24 News
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Araby TV
+https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Araby TV 2
+https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Ekhbariya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Ghad TV
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Iraqia News
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Mamlaka TV
+https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: AL Manar
+https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Masar TV
+https://starmenajo.com/hls/almasar/index.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Mashhad
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Masirah
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Masirah Mubacher
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Yaum TV
+https://iko-live.akamaized.net/AlyuamTV/master.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al-Sharqiya News
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Alhaqeqa Aldawlia
+https://ghaasiflu.online/alhqeqa/index.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Alhurra
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Almahriah TV
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: ALWifak News TV
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: CGTN Arabic
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Channel 8 Kurdish
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Dijlah TV
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: France 24 Arabic
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: I24 News Arabic
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: iNEWS TV
+https://live.i-news.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Kolalnas TV
+https://htvint.mada.ps/kolalnas/index.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: KTV News
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Makan 33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Medi 1 TV Arabic
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Medi 1 TV Maghreb
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Miracle Channel
+https://miracle.stream.boxigy.com/hls/miracle1.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Nablus TV
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Oman Mubashir
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: On E
+https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Palestine Al Yawm
+https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Shams TV
+https://stream.shams.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Syria TV
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: TRT Arabi
+http://185.234.111.229:8000/play/a002
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Welat TV
+http://stream.welattv.net:1935/welat/tv/.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Afghanistan International
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: UTV
+https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Voice of Lebanon
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Yemen Today TV
+https://video.yementdy.tv/hls/yementoday.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/SaudiaTV.png" ,AlSaudia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/KSA-Now.png" ,KSA-Now
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-id="Alarabiya.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Al%20Arabiya.png",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-id="AlHadath.sa" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Al%20Hadath.png",Al Arabiya Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-id="(no tvg-id)" tvg-name="Al-Arabiya-Business" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al-Arabiya-Business.png" ,AlArabiya Business
-https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index_3.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Alarabiya FM.png" ,Alarabiya FM
-https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Makkah TV.png" ,Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
@@ -183,14 +293,6 @@ https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/li
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://qna.org.qa/media/1aaphrlf/al-kass-two-hd-light-300x186.png" ,Al Kass Sports 2
 https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Jazeera Mubasher.png" ,Al Jazeera Mubasher
-https://streamer1.qna.org.qa/148133841_live/148133841_296.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Jazeera Arabic.png" ,Al Jazeera
-https://streamer1.qna.org.qa/148133697_live/148133697_63.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Jazeera English.png" ,News: Al Jazeera English
-https://live-hls-web-aje.getaj.net/alternative/AJE/01.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Jazeera Documentary.png" ,Documentary: Al Jazeera Documentary
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://isteam.wsimg.com/ip/8a248651-0613-4fb8-aebf-6058984201ef/Fame-FM-Qatar_Version-1.png" ,Fame FM Qatar
 https://18093.live.streamtheworld.com/SAM03AAC389.aac
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Sout Al-Khaleej 100.8 FM.png" ,Sout AlKhalej 100.8 FM
