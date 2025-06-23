@@ -118,7 +118,7 @@ https://live.kwikmotion.com/fujairahquranradiolive/fujairahquranradio/chunks.m3u
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.alrabiafm.com/wp-content/uploads/2019/06/22.png" ,Al Rabia FM
 https://s2.radio.co/s770fa24b6/listen
-#EXTINF:-1 group-title="#Emarat" tvg-logo="https://aldafrah.ae/wp-content/uploads/2023/05/Aldafrah_Logo_.png" ,Al Dafrah TV
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.rananaseeb.com/wp-content/uploads/2020/03/8.png" ,Al Dafrah TV
 https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
 
 #EXTINF:-1 group-title="#ExtraPlus" tvg-id="Alarabiya.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Al%20Arabiya.png",News: Al Arabiya
