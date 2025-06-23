@@ -105,14 +105,15 @@ https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
 #EXTINF:-1 group-title="#Emarat" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/d2/ad/small_48adf2291d08266c05ed1b0c24f326c86b1095b7.png" ,Watar
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/chunks.m3u8
 
-#EXTINF:-1 group-title="#Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Fujairah TV.png" ,Fujairah TV
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-1-638373922920910965.png" ,Fujairah TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/chunks.m3u8
-#EXTINF:-1 group-title="#Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Fujairah FM.png" ,Fujairah FM
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-2-638436821066644467.png" ,Fujairah FM
 https://live.kwikmotion.com/fujairahradiolive/fujairahradio/chunks.m3u8
-#EXTINF:-1 group-title="#Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Vibe FM.png" ,Vibe FM
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-3-638439380584353405.png" ,Vibe FM
 https://live.kwikmotion.com/fujairahviberadiolive/fujairahviberadio/chunks.m3u8
-#EXTINF:-1 group-title="#Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Zayed Radio For Quraan.png" ,Zayed Radio
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-4-638440217967215724.png" ,Zayed Radio
 https://live.kwikmotion.com/fujairahquranradiolive/fujairahquranradio/chunks.m3u8
+
 #EXTINF:-1 group-title="#Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Ajman TV.png" ,Ajman TV
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 group-title="#Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Rabia FM.png" ,Al Rabia FM
