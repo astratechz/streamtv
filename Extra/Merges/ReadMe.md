@@ -79,9 +79,8 @@ https://raw.githubusercontent.com/280b9f9b/Stream/main/Extra/M3U8/
 …including ad.m3u, dub.m3u, alain.m3u, and any future additions.
 
 ✅ Updated Google Apps Script
-javascript
-Copy
-Edit
+
+...
 function doGet(e) {
   const filenames = e.parameters.file; // ?file=ad.m3u&file=dub.m3u
 
@@ -137,6 +136,8 @@ function mergeM3U(urls) {
 
   return output.trim();
 }
+...
+
 🔗 Example URL to Merge:
 bash
 Copy
