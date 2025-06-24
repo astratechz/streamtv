@@ -1,0 +1,9 @@
+
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-1-638373922920910965.png" ,Fujairah TV
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/chunks.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-2-638436821066644467.png" ,Fujairah FM
+https://live.kwikmotion.com/fujairahradiolive/fujairahradio/chunks.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-3-638439380584353405.png" ,Vibe FM
+https://live.kwikmotion.com/fujairahviberadiolive/fujairahviberadio/chunks.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-4-638440217967215724.png" ,Zayed Radio
+https://live.kwikmotion.com/fujairahquranradiolive/fujairahquranradio/chunks.m3u8
