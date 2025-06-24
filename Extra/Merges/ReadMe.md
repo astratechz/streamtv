@@ -1,3 +1,6 @@
+✅  Google Apps Script
+
+
 ✅ 100% Working Google Apps Script for Merging Multiple M3U URLs
 
    ```
@@ -80,7 +83,6 @@ Keeps valid M3U format.
 https://raw.githubusercontent.com/280b9f9b/Stream/main/Extra/M3U8/
 …including ad.m3u, dub.m3u, alain.m3u, and any future additions.
 
-✅ Updated Google Apps Script
 
    ```
 function doGet(e) {
