@@ -1,7 +1,6 @@
 ✅ 100% Working Google Apps Script for Merging Multiple M3U URLs
-javascript
-Copy
-Edit
+
+   ```
 function doGet(e) {
   const urls = e.parameters.url; // Important: use `parameters`, not `parameter`
 
@@ -55,11 +54,14 @@ function mergeM3U(urls) {
 
   return output.trim();
 }
+   ```
+
 🧪 Example Test URL After Deployment:
-ruby
-Copy
-Edit
+
+   ```
 https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec?url=https://iptv-org.github.io/iptv/languages/test1.m3u&url=https://iptv-org.github.io/iptv/languages/test2.m3u
+   ```
+
 ✅ This version:
 
 Works with 1, 2, or more url parameters.
@@ -80,7 +82,7 @@ https://raw.githubusercontent.com/280b9f9b/Stream/main/Extra/M3U8/
 
 ✅ Updated Google Apps Script
 
-...
+   ```
 function doGet(e) {
   const filenames = e.parameters.file; // ?file=ad.m3u&file=dub.m3u
 
@@ -136,13 +138,13 @@ function mergeM3U(urls) {
 
   return output.trim();
 }
-...
+   ```
 
 🔗 Example URL to Merge:
-bash
-Copy
-Edit
+   ```
 https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec?file=test1.m3u&file=test2.m3u&file=test3.m3u
+   ```
+
 ➕ Want Auto-Merge All Files?
 
 
