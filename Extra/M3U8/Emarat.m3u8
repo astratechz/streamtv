@@ -1,0 +1,35 @@
+
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/cc/d6/small_a944754beaeb192cba3b7deb970d402df65ef87c.png" ,Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/f5/3e/small_d83f05132cd8c44b47acc7062711d27c20a5ddc4.png" ,Sharjah Sports TV
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/e1/ef/small_53b7c7a2b69889bee24a1a80f5c036878ce1d5ad.jpg" ,Holy Quran
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/9e/0c/small_1b9d05f172d654c355754975d18cc55255223f85.png" ,Al Sharqiya
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/30/fe/small_6c7cc30ed71e6b6c0267aa163952a5d9052cd166.png" ,Al Wousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/89/14/small_791cecd44950e87d0558b783273de114cf7656f7.png" ,Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/48/be/small_223c9d3f25bb2a817af17d3c1b3eabe6d6bdcfdf.png" ,Sharjah FM
+https://l3.itworkscdn.net/smcradiolive/smcradiolive/icecast.audio
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/e1/ef/small_53b7c7a2b69889bee24a1a80f5c036878ce1d5ad.jpg" ,Sharjah Quran
+https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/d2/ad/small_48adf2291d08266c05ed1b0c24f326c86b1095b7.png" ,Watar
+https://svs.itworkscdn.net/smcwatarlive/smcwatar/chunks.m3u8
+
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-1-638373922920910965.png" ,Fujairah TV
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/chunks.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-2-638436821066644467.png" ,Fujairah FM
+https://live.kwikmotion.com/fujairahradiolive/fujairahradio/chunks.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-3-638439380584353405.png" ,Vibe FM
+https://live.kwikmotion.com/fujairahviberadiolive/fujairahviberadio/chunks.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-4-638440217967215724.png" ,Zayed Radio
+https://live.kwikmotion.com/fujairahquranradiolive/fujairahquranradio/chunks.m3u8
+
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Ajman TV.png" ,Ajman TV
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.alrabiafm.com/wp-content/uploads/2019/06/22.png" ,Al Rabia FM
+https://s2.radio.co/s770fa24b6/listen
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.rananaseeb.com/wp-content/uploads/2020/03/8.png" ,Al Dafrah TV
+https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
