@@ -1,0 +1,53 @@
+function doGet(e) {
+  const urls = e.parameters.url; // Important: use `parameters`, not `parameter`
+
+  if (!urls || urls.length === 0) {
+    return ContentService.createTextOutput('Error: No M3U URLs provided')
+      .setMimeType(ContentService.MimeType.TEXT);
+  }
+
+  try {
+    const mergedOutput = mergeM3U(urls);
+    return ContentService.createTextOutput(mergedOutput)
+      .setMimeType(ContentService.MimeType.TEXT);
+  } catch (error) {
+    Logger.log('Error merging M3U: ' + error.stack);
+    return ContentService.createTextOutput('Error merging M3U: ' + error.message)
+      .setMimeType(ContentService.MimeType.TEXT);
+  }
+}
+
+function mergeM3U(urls) {
+  let output = '#EXTM3U\n';
+  const seen = new Set();
+
+  urls.forEach(url => {
+    try {
+      const response = UrlFetchApp.fetch(url);
+      let content = response.getContentText();
+
+      // Remove the first #EXTM3U line if present
+      if (content.startsWith('#EXTM3U')) {
+        content = content.substring(content.indexOf('\n') + 1);
+      }
+
+      const lines = content.split('\n');
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (line.startsWith('#EXTINF')) {
+          const streamUrl = (lines[i + 1] || '').trim();
+          const key = line + streamUrl;
+          if (!seen.has(key)) {
+            seen.add(key);
+            output += `${line}\n${streamUrl}\n`;
+          }
+          i++; // skip next line since it's already handled
+        }
+      }
+    } catch (err) {
+      Logger.log(`Failed to fetch or process URL: ${url} - ${err}`);
+    }
+  });
+
+  return output.trim();
+}
