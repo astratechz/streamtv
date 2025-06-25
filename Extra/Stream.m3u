@@ -321,7 +321,7 @@ https://live.kwikmotion.com/qmcslkrradiolive/slkrradio/chunks.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Inta FM 103.7.png" ,Inta FM 103.7
 https://s4.radio.co/s907eaefbe/listen
 
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/KTV 1.png" ,Kuwait 1 TV
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/KTV 1.PNG" ,Kuwait 1 TV
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/index.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/KTV 2.png" ,Kuwait 2 TV
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/index.m3u8
