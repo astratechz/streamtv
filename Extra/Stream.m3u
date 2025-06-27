@@ -108,13 +108,13 @@ https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
 #EXTINF:-1 group-title="#Emarat" tvg-logo="https://tvch.netlify.app/sba09_watar.png" ,Watar
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/chunks.m3u8
 
-#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-1-638373922920910965.png" ,Fujairah TV
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://tvch.netlify.app/fcma01_fujairah_tv.png" ,Fujairah TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/chunks.m3u8
-#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-2-638436821066644467.png" ,Fujairah FM
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://tvch.netlify.app/fcma02_fujairah_fm.png" ,Fujairah FM
 https://live.kwikmotion.com/fujairahradiolive/fujairahradio/chunks.m3u8
-#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-3-638439380584353405.png" ,Vibe FM
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://tvch.netlify.app/fcma03_vibe_fm.png" ,Vibe FM
 https://live.kwikmotion.com/fujairahviberadiolive/fujairahviberadio/chunks.m3u8
-#EXTINF:-1 group-title="#Emarat" tvg-logo="https://www.fujairahtv.ae/uploadImages/ProgramsImages/Channels-L-4-638440217967215724.png" ,Zayed Radio
+#EXTINF:-1 group-title="#Emarat" tvg-logo="https://tvch.netlify.app/fcma04_zayed_radio.png" ,Zayed Radio
 https://live.kwikmotion.com/fujairahquranradiolive/fujairahquranradio/chunks.m3u8
 
 #EXTINF:-1 group-title="#Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Ajman TV.png" ,Ajman TV
