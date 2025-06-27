@@ -323,22 +323,24 @@ https://live.kwikmotion.com/qmcslkrradiolive/slkrradio/chunks.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Inta FM 103.7.png" ,Inta FM 103.7
 https://s4.radio.co/s907eaefbe/listen
 
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/KTV 1.PNG" ,Kuwait 1 TV
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://tvch.netlify.app/ktv01-alkuwait.png" ,Kuwait 1 TV
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/index.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/KTV 2.png" ,Kuwait 2 TV
-https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/index.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/KTV Sport.png" ,Kuwait Sport
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Drama.png" ,Kuwait Drama
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://tvch.netlify.app/ktv02-news.png" ,Kuwait News
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/index.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/KTV Ethraa.png" ,Kuwait Ethraa
-https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/index.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/KTV Arabe.png" ,Kuwait Arabe
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/index.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/KTV Plus.png" ,Kuwait Plus
-https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/index.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/KTV Sport Plus.png" ,Kuwait Sport Plus
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://tvch.netlify.app/ktv03-ktv2.png" ,Kuwait 2 TV
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/index.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://tvch.netlify.app/ktv04-sport.png" ,Kuwait Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://tvch.netlify.app/ktv05-sport2.png" ,Kuwait Sport 2
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/index.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://tvch.netlify.app/ktv06-alqurain.png" ,Kuwait Al Qurain
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/index.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://tvch.netlify.app/ktv07-ethraa.png" ,Kuwait Ethraa
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/index.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://tvch.netlify.app/ktv08-alarabi.png" ,Kuwait Arabe
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/index.m3u8
+
+
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Kuwait FM 103.7.png" ,Kuwait FM 103.7
 https://kwtkrdota.cdn.mangomolo.com/kfmrdo/kfmrdo.stream_aac/index.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/AlQuran Alkarem 98.9.png" ,AlQuran Alkarem 98.9
