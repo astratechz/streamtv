@@ -65,25 +65,25 @@ https://dmithrvllta.cdn.mgmlcdn.com/dubairdo/dubairdo_aac/chunklist.m3u8
 https://dmithrvllta.cdn.mgmlcdn.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="#Dubai" tvg-logo="https://aloularadio.ae/images/logo.svg" ,Al Oula 107.4
+#EXTINF:-1 group-title="#Dubai" tvg-logo="https://tvch.netlify.app/arn01_al_oula_107.4.png" ,Al Oula 107.4
 https://uk6.internet-radio.com/proxy/aloula?mp=/stream;
-#EXTINF:-1 group-title="#Dubai" tvg-logo="https://arn.ae/wp-content/uploads/2017/02/ARN-Khaleejiya_New_Logo.png" ,ARN: Al Khaleejiya 100.9
+#EXTINF:-1 group-title="#Dubai" tvg-logo="https://tvch.netlify.app/arn02_al_khaleejiya_100.9.png" ,ARN: Al Khaleejiya 100.9
 https://n0d.radiojar.com/5wpf9e4erxquv
-#EXTINF:-1 group-title="#Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Virgin Radio Dubai.png" ,ARN: Virgin 104.4
+#EXTINF:-1 group-title="#Dubai" tvg-logo="https://tvch.netlify.app/arn03_virgin_104.4.png" ,ARN: Virgin 104.4
 https://n0d.radiojar.com/nhq0vcqwuueuv
-#EXTINF:-1 group-title="#Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/City 101.6 Dubai.png" ,ARN: City 101.6
+#EXTINF:-1 group-title="#Dubai" tvg-logo="https://tvch.netlify.app/arn04_city_101.6.png" ,ARN: City 101.6
 https://n0d.radiojar.com/gmwyu8xdrxquv
-#EXTINF:-1 group-title="#Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Arabiya 99.png" ,ARN: Al Arabiya 99
+#EXTINF:-1 group-title="#Dubai" tvg-logo="https://tvch.netlify.app/arn05_al_arabiya_99.png" ,ARN: Al Arabiya 99
 https://n07.radiojar.com/s1mygd1frxquv
-#EXTINF:-1 group-title="#Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Dubai 92.png" ,ARN: Dubai 92
+#EXTINF:-1 group-title="#Dubai" tvg-logo="https://tvch.netlify.app/arn06_dubai_92.png" ,ARN: Dubai 92
 https://n0d.radiojar.com/6ty5rrkerxquv
-#EXTINF:-1 group-title="#Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Hit 96.7.png" ,ARN: Hit 96.7
+#EXTINF:-1 group-title="#Dubai" tvg-logo="https://tvch.netlify.app/arn07_hit_96.7.png" ,ARN: Hit 96.7
 https://n0d.radiojar.com/3yygc0pwuueuv
-#EXTINF:-1 group-title="#Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Tag 91.1.png" ,ARN: Tag 91.1
+#EXTINF:-1 group-title="#Dubai" tvg-logo="https://tvch.netlify.app/arn08_tag_91.1.png" ,ARN: Tag 91.1
 https://n0d.radiojar.com/bpv82qebsxquv
-#EXTINF:-1 group-title="#Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Radio Shoma.png" ,ARN: Radio Shoma 93.4
+#EXTINF:-1 group-title="#Dubai" tvg-logo="https://tvch.netlify.app/arn10_radio_shoma_93.4.png" ,ARN: Radio Shoma 93.4
 https://n0d.radiojar.com/rzcfw4cbsxquv
-#EXTINF:-1 group-title="#Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Dubai Eye 103.8.png" ,ARN: Dubai Eye 103.8
+#EXTINF:-1 group-title="#Dubai" tvg-logo="https://tvch.netlify.app/arn11_dubai_eye_103.8.png" ,ARN: Dubai Eye 103.8
 https://n0d.radiojar.com/shcthrfbsxquv
 
 
