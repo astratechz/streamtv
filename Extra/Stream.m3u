@@ -409,8 +409,7 @@ http://trn03.bozztv.com/gin-sudantv/index.m3u8
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 group-title="Arab: West Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/2M Monde +1.png" ,2M Monde +1
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 group-title="Arab: West Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Aflam TV.png" ,Aflam TV
-https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8
+
 #EXTINF:-1 group-title="Arab: West Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Aoula Laâyoune.png" ,Al Aoula Laâyoune
 https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8
 
@@ -426,6 +425,8 @@ https://cdn.live.easybroadcast.io/ts_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8
 #EXTINF:-1 group-title="Arab: West Region" tvg-logo="https://www.snrt.ma/sites/default/files/styles/vignette/public/2023-04/assadissa-16x9.jpeg?itok=fsyiVrmw" ,Assadissa
 https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8
+#EXTINF:-1 group-title="Arab: West Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Aflam TV.png" ,Aflam TV
+https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8
 #EXTINF:-1 group-title="Arab: West Region" tvg-logo="https://www.snrt.ma/sites/default/files/styles/vignette/public/2023-04/tamazight-16x9.jpeg?itok=4Ktgxxyx" ,Tamazight
 https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
 
