@@ -149,25 +149,25 @@ https://streamer1.qna.org.qa/148133697_live/148133697_63.sdp/chunklist.m3u8
 https://live-hls-web-aje.getaj.net/alternative/AJE/01.m3u8
 #EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al Jazeera Documentary.png" ,Documentary: Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: AL24 News
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/AL24_News_Logo.svg" ,News: AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Araby TV
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Alaraby%20TV.png" ,News: Al Araby TV
 https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Araby TV 2
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Alaraby%202%20TV.png" ,News: Al Araby TV 2
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Ekhbariya
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al%20Ekhbariya.png" ,News: Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Ghad TV
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://play-lh.googleusercontent.com/L_977g62i9jvgXeiBzz0itqMsJT30SqwZzQzctpV_RhPSaJe97HmgM3IBZzRhPGbsg" ,News: Al Ghad TV
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Iraqia News
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl_GmNvq75vOGbzYSu-PD9V3vajLM6ETbTg&s" ,News: Al Iraqia News
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Mamlaka TV
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://jordandaily.net/wp-content/uploads/2024/04/mamalka-780x470.jpg" ,News: Al Mamlaka TV
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: AL Manar
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/New_Al-Manar_logo.PNG" ,News: AL Manar
 https://edge.fastpublish.me/live/index.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Masar TV
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Almasar_TV_Logo.png" ,News: Al Masar TV
 https://starmenajo.com/hls/almasar/index.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Mashhad
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://media.licdn.com/dms/image/v2/C4D0BAQEgEIY5qsiLSg/company-logo_200_200/company-logo_200_200/0/1654581705049?e=2147483647&v=beta&t=7yO4ePbd3EFGk8qop8zI8Y5_I36ZPblLIOffxg5y7AA" ,News: Al Mashhad
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
 #EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al Masirah
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
