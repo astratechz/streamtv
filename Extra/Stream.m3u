@@ -177,15 +177,15 @@ https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://tvtvtv.ru/logos/alyaum_tv.png" ,News: Al Yaum TV
 https://iko-live.akamaized.net/AlyuamTV/master.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Al-Sharqiya News
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/tvg-logo/Al-Sharqiya%20News.png" ,News: Al-Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Alhaqeqa Aldawlia
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://factjo.com/App_Themes/webSite/imgThemes/mainlogo2023a.png" ,News: Alhaqeqa Aldawlia
 https://ghaasiflu.online/alhqeqa/index.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Alhurra
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/AlHurra_logo.svg" ,News: Alhurra
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: Almahriah TV
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqlulD9vMpvgTSVLSbNRPJc9uQon4ZxLDDEg&s" ,News: Almahriah TV
 https://starmenajo.com/hls/almahriah/index.m3u8
-#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: ALWifak News TV
+#EXTINF:-1 group-title="#ExtraPlus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SgN7YLGG_aZB9EW3bB4Xp-2zzGl-v4Efig&s" ,News: ALWifak News TV
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="#ExtraPlus" tvg-logo="" ,News: BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
