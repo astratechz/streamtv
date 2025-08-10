@@ -1,18 +1,3 @@
-Skip to content
-Navigation Menu
-astratechz
-
-Code
-Issues
-Pull requests
-legacytv
-/script.js
- 
-416 lines (399 loc) · 15.3 KB
-
-Code
-
-Blame
 function handleKeyPress(event) {
     if (event.key === 'Enter') {
         checkPassword();
@@ -429,14 +414,3 @@ document.addEventListener('DOMContentLoaded', async () => {
     populateChannels();
     window.searchChannels = searchChannels;
 });
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
