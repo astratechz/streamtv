@@ -89,6 +89,12 @@ const channels = [
         drm: "clearkey" 
     },
     {
+        name: "ZBC 2",
+        src: "https://1833615464.rsc.cdn77.org/1833615464/index.mpd",
+        key: "50d91516e3814946b2c00200ad0ab0bc:ba3175efd331adc59a11baa21a8ad9e6",
+        drm: "clearkey" 
+    },
+    {
         name: "DAZN RISE",
         src: "https://ac-003.live.p7s1video.net/4a37da02/t_003/dazn-rise-hd/cenc-default.mpd",
         key: "75508caa27239cd34ca45ee862f1bbf2:d38f9f2b690bad3fcc838013242cc5e4",
@@ -138,8 +144,8 @@ const channels = [
     },
     {
         name: "KIX",
-        src: "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd",
-        key: "a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735",
+        src: "https://1145307264.rsc.cdn77.org/1145307264/index.mpd",
+        key: "5d2f839364b94b129aebcce911332db5:70cccf844a68a75bf96cb91cc7f5a53c",
         drm: "clearkey"
     },
     {
@@ -155,7 +161,7 @@ const channels = [
         drm: "clearkey"
     },
     {
-        name: "Al-Jazeera",
+        name: "Al-JAZEERA",
         src: "https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-dash/aljazeera.mpd",
         key: "",
         drm: "clearkey"
@@ -294,15 +300,21 @@ const channels = [
         drm: "clearkey"
     },
     {
-        name: "STARZ PLAY ARABIA",
-        src: "https://sps1.starzplayarabia.com/out/v1/41ff8fde1cd84ed5b30ab8198755356b/index.mpd",
-        key: "b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
+        name: "NINA TV",
+        src: "https://1916801090.rsc.cdn77.org/1916801090/index.mpd",
+        key: "407e6a3eb2b842da8ad55b7e029d632d:66cbd96a8299ad401a9d395c790db9c1",
         drm: "clearkey"  
     },
     {
         name: "WASAFI TV",
         src: "https://1748194871.rsc.cdn77.org/1748194871/index.mpd",
         key: "d4f20ed444c8489396111f42b4e75c76:580c4cac54b256cefe8af5f55b93d0ec",
+        drm: "clearkey" 
+    },
+    {
+        name: "TRACE MZIKI",
+        src: "https://1838417631.rsc.cdn77.org/1838417631/index.mpd",
+        key: "8568ccd1d08443d19951abd78d648c5b:0592864ecf5bab473a63731420511d42",
         drm: "clearkey" 
     },
     {
